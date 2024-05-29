@@ -7,9 +7,9 @@
 
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "VAJIRA-MD=qAd3GbzB#ZXTWl8aLiuFkYgu7gXSuMG4ihyIzMKA4zzTS7dxNxwU",
             "required": true,
-            "value": "VAJIRA-MD=PIUmAL4J#YsqMz7S8eLzY9yjzIfJOm49vtXoooD9N-xZ3BDHVt0o"
+            "value": "VAJIRA-MD=qAd3GbzB#ZXTWl8aLiuFkYgu7gXSuMG4ihyIzMKA4zzTS7dxNxwU"
         },
         "PREFIX": {
             "description": "put prefix here",
@@ -26,9 +26,9 @@
             "value": "Vajira"      
         },
         "OWNER_NUMBER": {
-            "description": "put your number here",
+            "description": "0729493354",
             "required": true,
-            "value": "94772476404"
+            "value": "94729493354"
         },
         "IMAGE": {
             "description": "Put bot image url here",
